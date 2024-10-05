@@ -1,0 +1,9 @@
+
+<-------------------!!------------------->
+
+Marca: SUZUKI
+Tipo: SPORT-TOURING
+Modelo: HAYABUSA
+Preco: R$124500.00
+Quantidade de Parcelas: 60
+Valor das parcelas: R$2075.00
