@@ -25,3 +25,12 @@ Modelo: V-STROM_1050XT
 Preco: R$86950.00
 Quantidade de Parcelas: 60
 Valor das parcelas: R$1449.17
+
+<-------------------!!------------------->
+
+Marca: TRIUMPH
+Tipo: ADVENTURE
+Modelo: TIGER_900_GT_ARAG‡N_<
+Preco: R$75690.00
+Quantidade de Parcelas: 60
+Valor das parcelas: R$1261.50
