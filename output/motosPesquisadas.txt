@@ -30,7 +30,16 @@ Valor das parcelas: R$1449.17
 
 Marca: TRIUMPH
 Tipo: ADVENTURE
-Modelo: TIGER_900_GT_ARAG‡N_<
+Modelo: TIGER_900_GT_ARAGON_EDITION
 Preco: R$75690.00
 Quantidade de Parcelas: 60
 Valor das parcelas: R$1261.50
+
+<-------------------!!------------------->
+
+Marca: BMW
+Tipo: SPORT
+Modelo: S_1000_RR
+Preco: R$131900.00
+Quantidade de Parcelas: 60
+Valor das parcelas: R$2198.00
